@@ -19,23 +19,41 @@
                                     <div class="text-center">
                                         <h1 class="h4 text-gray-900 mb-4">Login System</h1>
                                     </div>
-                                    
-                                    <form class="user">
+                                    <form method="POST" action="{{ route('login') }}" class="needs-validation" novalidate>
+                                        @csrf
                                         <div class="form-group">
-                                            <input type="email" class="form-control form-control-user"
-                                                id="exampleInputEmail" aria-describedby="emailHelp"
-                                                placeholder="Enter Email Address...">
+                                            <input type="email" 
+                                                id="email" aria-describedby="email"
+                                                placeholder="Enter Email Address..."  class="form-control @error('email')
+                                                is-invalid
+                                            @enderror"
+                                                name="email" tabindex="1" autofocus>
+                                            @error('email')
+                                                <div class="invalid-feedback">
+                                                    {{ $message }}
+                                                </div>
+                                            @enderror
                                         </div>
                                         <div class="form-group">
-                                            <input type="password" class="form-control form-control-user"
-                                                id="exampleInputPassword" placeholder="Password">
+                                            <input type="password" id="Password" placeholder="Password" class="form-control @error('Password')
+                                            is-invalid
+                                        @enderror"
+                                            name="password">
+                                        @error('Password')
+                                            <div class="invalid-feedback">
+                                                {{ $message }}
+                                            </div>
+                                        @enderror
+                                            <span class="password-toggle-icon" onclick="togglePasswordVisibility()">
+                                                <i class="fas fa-eye" id="togglePassword"></i>
+                                            </span>
                                         </div>
+                                       <hr>
                                         <div class="form-group">
-                                            <a class="small" href="forgot-password.html">Forgot Password?</a>
+                                            <button type="submit" class="btn btn-primary btn-lg btn-block">
+                                                Login
+                                            </button>
                                         </div>
-                                        <a href="index.html" class="btn btn-primary btn-user btn-block">
-                                            Login
-                                        </a>
                                     </form>
                                     <hr>
                                     <div class="text-center">

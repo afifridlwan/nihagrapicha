@@ -1,5 +1,9 @@
 <?php
 
+use App\Http\Controllers\CategoryController;
+use App\Http\Controllers\ProdukController;
+use App\Http\Controllers\UserController;
+use App\Models\User;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -19,6 +23,17 @@ Route::get('/', function () {
 });
 
 
-// Route::get('/', function () {
-//     return view('welcome');
-// });
+
+
+Route::middleware(['auth', 'verified'])->group(function () {
+    Route::get('home', function () {
+        return view('pages.admin.dashboard_admin', ['type_menu' => '']);
+    })->name('home'); 
+    route::resource('admin/category', CategoryController::class);
+    route::resource('admin/produk', ProdukController::class);
+    Route::get('admin/profile', [UserController::class, 'index'])->name('profile.index');
+    Route::get('admin/profile/edit', [UserController::class, 'edit'])->name('profile.edit');
+    Route::put('admin/profile/update', [UserController::class, 'update'])->name('profile.update');
+
+
+});

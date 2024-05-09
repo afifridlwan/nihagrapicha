@@ -109,5 +109,19 @@ class ProdukController extends Controller
                     $produk->delete();
                     return redirect()->route('produk.index');
                 }
+
+        // public function getCategoryProdukById(Request $request, $id) {
+        //      $produk = Produk::where('category_id', $id)->get();
+        //      if($produk->count() == null) {
+        //         return view('pages.produk.produk', ['produk' => $produk]);
+        //      }
+        // }
+
+        // public function getCategoryProdukById(Request $request, $id) {
+        //     $produk = Produk::where('category_id', $id)->get();
+        //     $category = Category::find($id); // 
+        //     return view('pages.produk.produk', compact('produk', 'category'));
+        //     }
+        
 }
  

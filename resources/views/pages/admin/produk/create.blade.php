@@ -6,7 +6,7 @@
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
             <!-- Sidebar - Brand -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center">
-                <div class="sidebar-brand-text mx-3">Afif Editing Online<sup></sup></div>
+                <div class="sidebar-brand-text mx-3">NihaGrapicha<sup></sup></div>
             </a>
             <!-- Divider -->
             <hr class="sidebar-divider my-0">
@@ -225,7 +225,7 @@
                       @if (session('success'))
           <div class="alert alert-success mt-4" role="alert">
               <h4 class="alert-heading">Well done!</h4>
-              <p>{{ session('success') }} Data category berhasil ditambahkan.</p>
+              <p>{{ session('success') }} Data Produk berhasil ditambahkan.</p>
           </div>
           @endif
 

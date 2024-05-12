@@ -6,7 +6,7 @@
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
             <!-- Sidebar - Brand -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center">
-                <div class="sidebar-brand-text mx-3">Afif Editing Online<sup></sup></div>
+                <div class="sidebar-brand-text mx-3">NihaGrapicha<sup></sup></div>
             </a>
             <!-- Divider -->
             <hr class="sidebar-divider my-0">
@@ -165,7 +165,7 @@
                  <!-- Begin Page Content -->
                  <div class="container-fluid">
                        <!-- Page Heading -->
-                       <h1 class="h3 mb-2 text-gray-800">Produkk</h1>
+                       <h1 class="h3 mb-2 text-gray-800">Produk</h1>
                        <!-- DataTales Example -->
                        <div class="card shadow mb-4">
                            <div class="card-header py-3">

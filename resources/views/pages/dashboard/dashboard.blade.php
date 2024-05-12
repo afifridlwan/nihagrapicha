@@ -23,10 +23,10 @@
                                     <div class="col-sm-7">
                                         <div class="single-welcome-hero">
                                             <div class="welcome-hero-txt">
-                                                <h4>AFIF STORE</h4>
+                                                <h4>NihaGrapicha</h4>
                                                 <h2>Desain Undangan Pernikahan</h2>
                                                 <p> 
-                                                    Ayo ciptakan momen pernikahan yang tak terlupakan dengan undangan istimewa dari Afif Store!. Rayakan Cintamu dengan Afif Store!
+                                                    Ayo ciptakan momen pernikahan yang tak terlupakan dengan undangan istimewa dari NihaGrapicha!. Rayakan Cintamu dengan NihaGrapicha!
                                                     Undangan Elegan, Desain Cantik, Harga Bersahabat
                                                 </p>
                                                 <button class="btn-cart welcome-add-cart" onclick="window.location.href='#'">
@@ -61,10 +61,10 @@
                                     <div class="col-sm-7">
                                         <div class="single-welcome-hero">
                                             <div class="welcome-hero-txt">
-                                                <h4>AFIF STORE</h4>
+                                                <h4>Niha Grapciha</h4>
                                                 <h2>Desain Banner Berkualitas</h2>
                                                 <p>
-                                                    Jangan biarkan bisnis Anda tertinggal! Hubungi Afif Store hari ini untuk mendapatkan banner yang berkualitas dan meningkatkan penjualan Anda!
+                                                    Jangan biarkan bisnis Anda tertinggal! Hubungi NihaGrapicha hari ini untuk mendapatkan banner yang berkualitas dan meningkatkan penjualan Anda!
                                                 </p>
                                                
                                                 <button class="btn-cart welcome-add-cart" onclick="window.location.href='#'">
@@ -99,11 +99,11 @@
                                     <div class="col-sm-7">
                                         <div class="single-welcome-hero">
                                             <div class="welcome-hero-txt">
-                                                <h4>AFIF STORE</h4>
+                                                <h4>NihaGrapicha</h4>
                                                 <h2>Menyediakan Alat Tulis Kantor</h2>
                                                 <p>
-                                                        Ciptakan Semangat Berkarya Dengan Alat Tulis Berkualitas Dari Toko Afif Store!.
-                                                        Wujudkan Kantor Impianmu dengan Alat Tulis Istimewa Lengkapilah Kebutuhan Kantor Anda di Toko Afif Store:
+                                                        Ciptakan Semangat Berkarya Dengan Alat Tulis Berkualitas Dari Toko NihaGrapicha.
+                                                        Wujudkan Kantor Impianmu dengan Alat Tulis Istimewa Lengkapilah Kebutuhan Kantor Anda di Toko NihaGrapicha:
                                                 </p>
                                                 <button class="btn-cart welcome-add-cart" onclick="window.location.href='#'">
                                                     <span class="lnr lnr-plus-circle"></span>
@@ -152,58 +152,7 @@
 
                     <div class="container">            
                         <!-- Start Atribute Navigation -->
-                        <div class="attr-nav">
-                            <ul>
-                                <li class="search">
-                                    <a href="#"><span class="lnr lnr-magnifier"></span></a>
-                                </li><!--/.search-->
-                                <li class="nav-setting">
-                                    <a href="#"><span class="lnr lnr-cog"></span></a>
-                                </li><!--/.search-->
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" >
-                                        <span class="lnr lnr-cart"></span>
-                                        <span class="badge badge-bg-1">2</span>
-                                    </a>
-                                    <ul class="dropdown-menu cart-list s-cate">
-                                        <li class="single-cart-list">
-                                            <a href="#" class="photo"><img src="assets/images/collection/arrivals1.png" class="cart-thumb" alt="image" /></a>
-                                            <div class="cart-list-txt">
-                                                <h6><a href="#">arm <br> chair</a></h6>
-                                                <p>1 x - <span class="price">$180.00</span></p>
-                                            </div><!--/.cart-list-txt-->
-                                            <div class="cart-close">
-                                                <span class="lnr lnr-cross"></span>
-                                            </div><!--/.cart-close-->
-                                        </li><!--/.single-cart-list -->
-                                        <li class="single-cart-list">
-                                            <a href="#" class="photo"><img src="assets/images/collection/arrivals2.png" class="cart-thumb" alt="image" /></a>
-                                            <div class="cart-list-txt">
-                                                <h6><a href="#">single <br> armchair</a></h6>
-                                                <p>1 x - <span class="price">$180.00</span></p>
-                                            </div><!--/.cart-list-txt-->
-                                            <div class="cart-close">
-                                                <span class="lnr lnr-cross"></span>
-                                            </div><!--/.cart-close-->
-                                        </li><!--/.single-cart-list -->
-                                        <li class="single-cart-list">
-                                            <a href="#" class="photo"><img src="assets/images/collection/arrivals3.png" class="cart-thumb" alt="image" /></a>
-                                            <div class="cart-list-txt">
-                                                <h6><a href="#">wooden arn <br> chair</a></h6>
-                                                <p>1 x - <span class="price">$180.00</span></p>
-                                            </div><!--/.cart-list-txt-->
-                                            <div class="cart-close">
-                                                <span class="lnr lnr-cross"></span>
-                                            </div><!--/.cart-close-->
-                                        </li><!--/.single-cart-list -->
-                                        <li class="total">
-                                            <span>Total: $0.00</span>
-                                            <button class="btn-cart pull-right" onclick="window.location.href='#'">view cart</button>
-                                        </li>
-                                    </ul>
-                                </li><!--/.dropdown-->
-                            </ul>
-                        </div><!--/.attr-nav-->
+                       
                         <!-- End Atribute Navigation -->
 
                         <!-- Start Header Navigation -->
@@ -211,7 +160,7 @@
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                                 <i class="fa fa-bars"></i>
                             </button>
-                            <a class="navbar-brand" href="index.html">AFIF STORE</a>
+                            <a class="navbar-brand" href="index.html">Niha Grapicha</a>
 
                         </div><!--/.navbar-header-->
                         <!-- End Header Navigation -->
@@ -229,7 +178,6 @@
                                     </ul>
                                 </li>
                                     <li class="scroll"><a href="#feature">Galeri</a></li>
-                                    <li class="scroll"><a href="#blog">blog</a></li>
                                     <li class="scroll"><a href="#newsletter">contact</a></li>
                                 </ul><!--/.nav -->
                         </div><!-- /.navbar-collapse -->
@@ -284,45 +232,7 @@
     </section><!--/.new-arrivals-->
     <!--new-arrivals end -->
 
-    <!--sofa-collection start -->
-    <section id="sofa-collection">
-        <div class="owl-carousel owl-theme" id="collection-carousel">
-            <div class="sofa-collection collectionbg1">
-                <div class="container">
-                    <div class="sofa-collection-txt">
-                        <h2>unlimited sofa collection</h2>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                        </p>
-                        <div class="sofa-collection-price">
-                            <h4>strting from <span>$ 199</span></h4>
-                        </div>
-                        <button class="btn-cart welcome-add-cart sofa-collection-btn" onclick="window.location.href='#'">
-                            view more
-                        </button>
-                    </div>
-                </div>	
-            </div><!--/.sofa-collection-->
-            <div class="sofa-collection collectionbg2">
-                <div class="container">
-                    <div class="sofa-collection-txt">
-                        <h2>unlimited dainning table collection</h2>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                        </p>
-                        <div class="sofa-collection-price">
-                            <h4>strting from <span>$ 299</span></h4>
-                        </div>
-                        <button class="btn-cart welcome-add-cart sofa-collection-btn" onclick="window.location.href='#'">
-                            view more
-                        </button>
-                    </div>
-                </div>
-            </div><!--/.sofa-collection-->
-        </div><!--/.collection-carousel-->
-
-    </section><!--/.sofa-collection-->
-    <!--sofa-collection end -->
+  
 
     <!--feature start -->
     <section id="feature" class="feature">
@@ -498,31 +408,7 @@
     <section id="clients"  class="clients">
         <div class="container">
             <div class="owl-carousel owl-theme" id="client">
-                    <div class="item">
-                        <a href="#">
-                            <img src="assets/images/clients/c1.png" alt="brand-image" />
-                        </a>
-                    </div><!--/.item-->
-                    <div class="item">
-                        <a href="#">
-                            <img src="assets/images/clients/c2.png" alt="brand-image" />
-                        </a>
-                    </div><!--/.item-->
-                    <div class="item">
-                        <a href="#">
-                            <img src="assets/images/clients/c3.png" alt="brand-image" />
-                        </a>
-                    </div><!--/.item-->
-                    <div class="item">
-                        <a href="#">
-                            <img src="assets/images/clients/c4.png" alt="brand-image" />
-                        </a>
-                    </div><!--/.item-->
-                    <div class="item">
-                        <a href="#">
-                            <img src="assets/images/clients/c5.png" alt="brand-image" />
-                        </a>
-                    </div><!--/.item-->
+                    
                 </div><!--/.owl-carousel-->
 
         </div><!--/.container-->
@@ -557,11 +443,11 @@
                             </div><!--/.hm-foot-title-->
                             <div class="hm-foot-menu">
                                 <ul>
-                                    <li><a href="#">wooden chair</a></li><!--/li-->
-                                    <li><a href="#">royal cloth sofa</a></li><!--/li-->
-                                    <li><a href="#">accent chair</a></li><!--/li-->
-                                    <li><a href="#">bed</a></li><!--/li-->
-                                    <li><a href="#">hanging lamp</a></li><!--/li-->
+                                    <li><a href="#">Undangan Pernikahan</a></li><!--/li-->
+                                    <li><a href="#">Banner </a></li><!--/li-->
+                                    <li><a href="#">Jasa Percetakan</a></li><!--/li-->
+                                    <li><a href="#">Gantungan Kunci</a></li><!--/li-->
+                                    <li><a href="#">Alat Tulis Dan Lain - Lain</a></li><!--/li-->
                                 </ul><!--/ul-->
                             </div><!--/.hm-foot-menu-->
                         </div><!--/.hm-footer-widget-->
@@ -576,8 +462,6 @@
                                     <li><a href="#">my account</a></li><!--/li-->
                                     <li><a href="#">wishlist</a></li><!--/li-->
                                     <li><a href="#">Community</a></li><!--/li-->
-                                    <li><a href="#">order history</a></li><!--/li-->
-                                    <li><a href="#">my cart</a></li><!--/li-->
                                 </ul><!--/ul-->
                             </div><!--/.hm-foot-menu-->
                         </div><!--/.hm-footer-widget-->
@@ -622,7 +506,7 @@
                     <a href="#"><i class="fa fa-behance"></i></a>	
                 </div>
                 <p>
-                    &copy;copyright. designed and developed by <a href="https://www.themesine.com/">themesine</a>
+                    &copy;copyright. Team IT NihaGrapicha Turi Lamongan By  <a href="https://www.themesine.com/">Afif Dev</a>
                 </p><!--/p-->
             </div><!--/.text-center-->
         </div><!--/.container-->

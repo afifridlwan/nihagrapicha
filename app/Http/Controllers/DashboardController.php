@@ -52,7 +52,7 @@ class DashboardController extends Controller
          // Buat URL WhatsApp dengan parameter
         //  $whatsappUrl = "https://api.whatsapp.com/send?phone=6285784878986&text=Saya ingin membeli " . urlencode($products->nama) . " seharga " . $products->harga . $products->gambarUrlProduk;
          
-         $whatsappUrl = "https://api.whatsapp.com/send?phone=6285784878986&text=Saya%20ingin%20membeli%20" . urlencode($products->nama) . "%20seharga%20" . $products->harga . "%0A" . urlencode(route('detail.show', $products->id));
+         $whatsappUrl = "https://api.whatsapp.com/send?phone=6285810340819&text=Hallo%20apakah%20produk%20ini%20tersedia%20,%20saya%20ingin%20membeli%20produk%20ini" . urlencode($products->nama) . "%20seharga%20" . $products->harga . "%0A" . urlencode(route('detail.show', $products->id));
         // Redirect ke URL WhatsApp
         return redirect()->away($whatsappUrl);
       }

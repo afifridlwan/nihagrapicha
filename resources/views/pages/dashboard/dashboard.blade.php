@@ -257,7 +257,7 @@
                                     <span class="feature-review">(Baguss)</span>
                                 </p>
                                 <h3><a href="#">Afriyana</a></h3>
-                                <p>Undangan nya murah meriah, kualitasnya sangat bagus hanya di Toko Afif Store</p>
+                                <p>Undangan nya murah meriah, kualitasnya sangat bagus hanya di NihaGrapicha </p>
                             </div>
                         </div>
                     </div>
@@ -277,7 +277,7 @@
                                     <span class="feature-review">(Sangat Baik)</span>
                                 </p>
                                 <h3><a href="#">Fahmi</a></h3>
-                                <p>Banner nya sangat bagus dan bisa desain disini, kualitasnya sangat bagus hanya di Toko Afif Store</p>
+                                <p>Banner nya sangat bagus dan bisa desain disini, kualitasnya sangat bagus hanya di NihaGrapicha</p>
                             </div>
                         </div>
                     </div>
@@ -296,7 +296,7 @@
                                     <span class="feature-review">(Bagus)</span>
                                 </p>
                                 <h3><a href="#">Falih</a></h3>
-                                <p>Desain disini sangat bagus , sangat oke juga murah meriah, kualitasnya sangat bagus hanya di Toko Afif Store</p>
+                                <p>Desain disini sangat bagus , sangat oke juga murah meriah, kualitasnya sangat bagus hanya di  NihaGrapicha</p>
                             </div>
                         </div>
                     </div>
@@ -315,7 +315,7 @@
                                     <span class="feature-review">(Bagus)</span>
                                 </p>
                                 <h3><a href="#">Deni</a></h3>
-                                <p>Respon toko sangat cepat, gantungan kunci nya juga bagus bagus , sangat keren Toko Online Afif Store</p>
+                                <p>Respon toko sangat cepat, gantungan kunci nya juga bagus bagus , sangat keren Toko Online di NihaGrapicha</p>
                             </div>
                         </div>
                     </div>
@@ -334,7 +334,7 @@
                                     <span class="feature-review">(Baguss)</span>
                                 </p>
                                 <h3><a href="#">Zahro</a></h3>
-                                <p>Saya bikin banner disini adminnya sangat baik, bisa mengarahkan sesuai minat saya , murah meriah lagi ayo buat bannner di Toko Online Afif Store</p>
+                                <p>Saya bikin banner disini adminnya sangat baik, bisa mengarahkan sesuai minat saya , murah meriah lagi ayo buat bannner di NihaGrapicha</p>
                             </div>
                         </div>
                     </div>
@@ -353,7 +353,7 @@
                                     <span class="feature-review">(Bagus)</span>
                                 </p>
                                 <h3><a href="#">Riyan</a></h3>
-                                <p>nice, buat undangan nikah disini murah dan bagus-bagus, banyak pilihannya. Kunjungi Toko Online Afif Store</p>
+                                <p>nice, buat undangan nikah disini murah dan bagus-bagus, banyak pilihannya. Kunjungi Toko Online di NihaGrapicha</p>
                             </div>
                         </div>
                     </div>
@@ -372,7 +372,7 @@
                                     <span class="feature-review">(Bagus)</span>
                                 </p>
                                 <h3><a href="#">Katrina</a></h3>
-                                <p>Beli alat kantor dan buku peralatan sekolah disini sangat bisa, bisa diantar juga , sangat keren Toko Online Afif Store</p>
+                                <p>Beli alat kantor dan buku peralatan sekolah disini sangat bisa, bisa diantar juga , sangat keren Toko Online di NihaGrapicha</p>
                             </div>
                         </div>
                     </div>
@@ -391,7 +391,7 @@
                                     <span class="feature-review">(Bagus)</span>
                                 </p>
                                 <h3><a href="#">Lukman</a></h3>
-                                <p>Saya membuat undangan dan banner disini harganya murah meriah , kualitasnya bagus dan bisa diantar ke rumah Toko Online Afif sangat bagus</p>
+                                <p>Saya membuat undangan dan banner disini harganya murah meriah , kualitasnya bagus dan bisa diantar ke rumah Toko Online di NihaGrapicha sangat bagus</p>
                             </div>
                         </div>
                     </div>

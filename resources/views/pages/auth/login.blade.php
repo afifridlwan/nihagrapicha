@@ -12,7 +12,7 @@
                         <!-- Nested Row within Card Body -->
                         <div class="row">
                             <div class="col-lg-6">
-                                <img src="assets/img/logo1.png" alt="Logo" class="img-fluid">
+                                <img src="assets/img/logoafif.png" alt="Logo" class="img-fluid">
                             </div>
                             <div class="col-lg-6">
                                 <div class="p-5">

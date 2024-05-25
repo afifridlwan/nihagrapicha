@@ -150,7 +150,7 @@
                     </div>
                     <!-- End Top Search -->
 
-                    <div class="container">            
+                    <div class="container ">            
                         <!-- Start Atribute Navigation -->
                        
                         <!-- End Atribute Navigation -->
@@ -160,7 +160,7 @@
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                                 <i class="fa fa-bars"></i>
                             </button>
-                            <a class="navbar-brand" href="index.html">Niha Grapicha</a>
+                            <a class="navbar-brand" href="">Niha Grapicha</a>
 
                         </div><!--/.navbar-header-->
                         <!-- End Header Navigation -->
@@ -506,7 +506,7 @@
                     <a href="#"><i class="fa fa-behance"></i></a>	
                 </div>
                 <p>
-                    &copy;copyright. Team IT NihaGrapicha Turi Lamongan By  <a href="https://www.themesine.com/">Afif Dev</a>
+                    &copy;copyright. Team IT NihaGrapicha Lamongan By  <a href="https://www.themesine.com/">Afif Dev</a>
                 </p><!--/p-->
             </div><!--/.text-center-->
         </div><!--/.container-->
